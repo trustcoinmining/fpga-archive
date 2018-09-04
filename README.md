@@ -32,3 +32,6 @@ Archieve for FPGA related stuff
 # Senseless Source
 - [Keccak-Source](https://github.com/MonadNetwork/fpga-archieve/releases/download/Keccak-Source/keccak_512.zip)
 - [Nist5-Source](https://github.com/MonadNetwork/fpga-archieve/releases/download/Nist5-Source/aws-nist5.zip)
+
+# VCU1525 Installation & Operating Instructions
+- [Instructions](https://github.com/MonadNetwork/fpga-archieve/releases/download/VCU1525-Instructions/VCU1525_Instructions.pdf)
