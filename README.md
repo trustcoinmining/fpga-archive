@@ -2,7 +2,7 @@ Archieve for FPGA related stuff
 
 # Digital Crucher
 - [Tribus-Miner](https://github.com/MonadNetwork/fpga-archieve/releases/download/tribus-miner/ccminer.vcu1525.linux.src.tar)
-- [Tribus-Bitstream](https://github.com/digitalcruncher/keccak-tribus/releases/download/2/vcu1525-keccak-tribus-variable.tar.gz)
+- [Tribus-Bitstream](https://github.com/MonadNetwork/fpga-archieve/releases/download/Tribus-Miner/vcu1525-keccak-tribus-variable.tar)
 - [Keccak-Miner](https://github.com/MonadNetwork/fpga-archieve/releases/download/Keccak-Miner/ccminer.vcu1525.linux.src.tar.gz)
 - [Keccak-Bitstream](https://github.com/MonadNetwork/fpga-archieve/releases/download/Keccak-Miner/vcu1525-keccak-tribus-variable.tar.gz)
 
