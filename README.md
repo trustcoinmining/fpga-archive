@@ -33,5 +33,9 @@ Archieve for FPGA related stuff
 - [Keccak-Source](https://github.com/MonadNetwork/fpga-archieve/releases/download/Keccak-Source/keccak_512.zip)
 - [Nist5-Source](https://github.com/MonadNetwork/fpga-archieve/releases/download/Nist5-Source/aws-nist5.zip)
 
+
+# FTDI D2XX Windows drivers 64x
+- [Drivers](https://github.com/MonadNetwork/fpga-archieve/releases/download/FTDI-D2XX-Windows-drivers/CDM.v2.12.28.WHQL.Certified.zip)
+
 # VCU1525 Installation & Operating Instruction
 - [Instructions](https://github.com/MonadNetwork/fpga-archieve/releases/download/VCU1525-Instructions/VCU1525_Instructions.pdf)
