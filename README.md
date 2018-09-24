@@ -5,6 +5,8 @@ archive for FPGA related stuff
 - [Tribus-Bitstream](https://github.com/MonadNetwork/fpga-archive/releases/download/Tribus-Miner/vcu1525-keccak-tribus-variable.tar)
 - [Keccak-Miner](https://github.com/MonadNetwork/fpga-archive/releases/download/Keccak-Miner/ccminer.vcu1525.linux.src.tar.gz)
 - [Keccak-Bitstream](https://github.com/MonadNetwork/fpga-archive/releases/download/Keccak-Miner/vcu1525-keccak-tribus-variable.tar.gz)
+- [Keccak-Zp-Miner](https://github.com/MonadNetwork/fpga-archive/releases/download/Keccak-zp/ccminer-zen-protocol.fpga.v7.release.tar.gz)
+- [Keccak-Zp-Bitstream](https://github.com/MonadNetwork/fpga-archive/releases/download/Keccak-zp/vcu1525_keccakzp_21_600.bit.tar.gz)
 
 # Whitefire990
 - [0xToken-Miner](https://github.com/MonadNetwork/fpga-archive/releases/download/0xToken-Miner/FXTokenMiner_v1_32.zip)
